@@ -15,7 +15,7 @@ import Game2024Sekken from "./pages/news/Game2024Sekken"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio/">
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<App />} />
