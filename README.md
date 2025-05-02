@@ -1,2 +1,3 @@
 Please see my portfolio.
-[https://komura-taichi.github.io/portfolio/]
+<br>
+https://komura-taichi.github.io/portfolio/
